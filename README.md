@@ -2,7 +2,7 @@
 
 You are on a horizontal line of infinite length. From your initial position, you can move either left or right. Your movements are represented by a string S of length L. This string can consist of two different types of characters, each denoting a move:
 
-- A: You move ! unit left.
+- A: You move 1 unit left.
 - C: You move 1 unit right.
 
 Write a program to find the maximum distance in units from your initial position in any direction.
